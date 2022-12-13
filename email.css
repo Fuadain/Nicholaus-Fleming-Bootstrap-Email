@@ -1,0 +1,44 @@
+.home-list {
+    background-color: rgb(208, 146, 255);
+}
+
+.email-list {
+    background-color: rgb(226, 189, 255);
+    list-style-type: none;
+}
+
+.email-page {
+    background-color: rgb(235, 235, 235);
+}
+
+.menu {
+    list-style-type: none;
+}
+
+.menu li a {
+    text-decoration: none;
+}
+.menu li a:visited {
+    color: rgb(56, 56, 56);
+}
+.menu li a:link {
+    color: rgb(56, 56, 56);
+}
+.menu li:hover {
+    background-color: rgb(226, 189, 255);
+}
+
+.main-btn {
+    background-color: rgb(122, 0, 182);
+}
+
+.email-card:hover {
+    box-shadow: 2px 2px;
+}
+
+.icons a:link {
+    color: rgb(122, 0, 182);
+}
+.icons a:visited {
+    color: rgb(122, 0, 182);
+}
